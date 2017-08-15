@@ -86,14 +86,28 @@ Traccar
 ### Instalar la aplicación
 
 <p align="justify">
-	Traccar nos ofrece un hambiente completo incluyendo la aplicación podemos descargarla desde la <i>Play Store</i> o podemos descargar el código fuente desde <a href="https://github.com/tananaev/traccar-client-android">aquí</a>
-</p>.
-<p align="justify">
-			
+	Traccar nos ofrece un hambiente completo incluyendo la aplicación podemos descargarla desde la <i>Play Store</i> o podemos descargar el código fuente desde <a href="https://github.com/tananaev/traccar-client-android">aquí</a> que se distribuye bajo la licencia <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache 2.0</a>.
 </p>
+<p align="justify">
+	En nuestro caso lo descargamos y generamos el APK y la instalamos.
+</p>
+
+<p justify="center">
+	<img src="" width="270" height="480">
+</p>
+
+<p justify="center">
+	<img src="" width="270" height="480">
+</p>
+
+<p justify="center">
+	<img src="" width="270" height="480">
+</p>
+
 
 ## Fuente
 
 * <a href="https://www.traccar.org/forums/topic/how-to-install-traccar-server-on-vps/">How to install Traccar server on VPS</a>
 * <a href="http://lobotuerto.com/blog/2014/08/26/como-instalar-oracle-java-en-ubuntu/">Cómo instalar Oracle Java 8 en Ubuntu 16.04</a>
+* <a href="https://www.traccar.org/mysql/">MySQL Database</a>
 

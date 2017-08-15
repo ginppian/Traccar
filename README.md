@@ -53,7 +53,28 @@ Traccar
 			Instalamos <i>Traccar</i>
 		</p>
 		<ul>	
+				<li>
+				$ cd /opt	
+				</li>
+				<li>
+				$ wget https://github.com/tananaev/traccar/releases/download/v3.5/traccar-linux-64-3.5.zip
+				</li>
+				<li>	
+				$ unzip traccar-linux-64-3.5.zip
+				</li>
+				<li>
+				$ chmod +x traccar.run
+				</li>
+				<li>
+				$ sudo ./traccar.run
+				</li>
+				<li>	
+				$ sudo /opt/traccar/bin/traccar start
+				</li>
 		</ul>
+		<p align="justify">
+				check http://youripaddress:8082
+		</p>
 	</li>
 </ol>
 

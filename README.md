@@ -4,7 +4,7 @@ Traccar
 ## Definición
 
 <p align="justify">
-	Traccar según su <a href="https://github.com/tananaev/traccar">documentación oficial</a> <i> is open source server for various GPS tracking devices. Project is written in Java and works on most platforms with installed Java Runtime Environment.</i> Esta bajo licencia <i>Apache 2.0</i>.
+	Traccar según su <a href="https://github.com/tananaev/traccar">documentación oficial</a> <i> "is open source server for various GPS tracking devices. Project is written in Java and works on most platforms with installed Java Runtime Environment."</i> Esta bajo licencia <i>Apache 2.0</i>.
 </p>
 
 ## Instalación

@@ -30,21 +30,30 @@ Traccar
 		<p align="justify">
 			El siguiente paso será instalar Java
 		</p>
-			<ul>	
+		<ul>	
+			<li>	
 				$ sudo add-apt-repository ppa:webupd8team/java
-			</ul>
-			<ul>	
+			</li>
+			<li>	
 				$ sudo apt-get update
-			</ul>
-			<ul>	
+			</li>
+			<li>	
 				$ sudo apt-get install oracle-java8-installer
-			</ul>
-			<ul>	
+			</li>
+			<li>	
 				$ sudo apt-get install oracle-java8-set-default
+			</li>
 			</ul>
 			<p align="justify">	
-					En mi caso instalé Java 8 y funcionó bien pero se pueden instalar versiones más actualizadas.
+					En mi caso instalé Java 8 y funcionó bien pero se pueden instalar versiones más nuevas.
 			</p>
+	</li>
+	<li>	
+		<p align="justify">
+			Instalamos <i>Traccar</i>
+		</p>
+		<ul>	
+		</ul>
 	</li>
 </ol>
 

@@ -42,10 +42,11 @@ Traccar
 			<ul>	
 				$ sudo apt-get install oracle-java8-set-default
 			</ul>
-			<p align="justify">	
-			En mi caso instalé Java 8 y funcionó bien pero se pueden instalar versiones más actualizadas.
-			</p>
 	</li>
+
+	<p align="justify">	
+			En mi caso instalé Java 8 y funcionó bien pero se pueden instalar versiones más actualizadas.
+	</p>
 	<li>	
 
 	</li>

@@ -1,6 +1,10 @@
 Traccar
 =====
 
+<p align="center">
+	<img src="https://github.com/ginppian/Traccar/blob/master/imgs/img1.png" width="680" height="325">
+</p>
+
 ## Definición
 
 <p align="justify">

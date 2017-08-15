@@ -128,5 +128,6 @@ Traccar
 
 * <a href="https://www.traccar.org/forums/topic/how-to-install-traccar-server-on-vps/">How to install Traccar server on VPS</a>
 * <a href="http://lobotuerto.com/blog/2014/08/26/como-instalar-oracle-java-en-ubuntu/">Cómo instalar Oracle Java 8 en Ubuntu 16.04</a>
+* <a href="https://www.youtube.com/watch?v=1nvd6754GAE">Instalacion de un servidor Traccar Tutorial</a>
 * <a href="https://www.traccar.org/mysql/">MySQL Database</a>
 

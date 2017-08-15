@@ -42,9 +42,17 @@ Traccar
 			<ul>	
 				$ sudo apt-get install oracle-java8-set-default
 			</ul>
+			<p align="justify">	
+			En mi caso instalé Java 8 y funcionó bien pero se pueden instalar versiones más actualizadas.
+			</p>
+	</li>
+	<li>	
+
 	</li>
 </ol>
 
 ## Fuente
 
 * <a href="https://www.traccar.org/forums/topic/how-to-install-traccar-server-on-vps/">How to install Traccar server on VPS</a>
+* <a href="http://lobotuerto.com/blog/2014/08/26/como-instalar-oracle-java-en-ubuntu/">Cómo instalar Oracle Java 8 en Ubuntu 16.04</a>
+

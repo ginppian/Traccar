@@ -44,12 +44,7 @@ Traccar
 			</ul>
 	</li>
 
-	<p align="justify">	
-			En mi caso instalé Java 8 y funcionó bien pero se pueden instalar versiones más actualizadas.
-	</p>
-	<li>	
 
-	</li>
 </ol>
 
 ## Fuente

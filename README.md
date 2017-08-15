@@ -7,7 +7,9 @@ Traccar
 	Traccar según su <a href="https://github.com/tananaev/traccar">documentación oficial</a> <i> "is open source server for various GPS tracking devices. Project is written in Java and works on most platforms with installed Java Runtime Environment."</i> Y se distribuye bajo licencia <i>Apache 2.0</i>.
 </p>
 
-## Instalación
+## Desarrollo
+
+### Montar el servidor
 
 <ol>
 	<li>
@@ -80,6 +82,15 @@ Traccar
 		</p>
 	</li>
 </ol>
+
+### Instalar la aplicación
+
+<p align="justify">
+	Traccar nos ofrece un hambiente completo incluyendo la aplicación podemos descargarla desde la <i>Play Store</i> o podemos descargar el código fuente desde <a href="https://github.com/tananaev/traccar-client-android">aquí</a>
+</p>.
+<p align="justify">
+			
+</p>
 
 ## Fuente
 

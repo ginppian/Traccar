@@ -73,7 +73,10 @@ Traccar
 				</li>
 		</ul>
 		<p align="justify">
-				check http://youripaddress:8082
+				Accedemos a Traccar a través de: http://youripaddress:8082
+		</p>
+		<p align="justify">
+				En este caso instalé la versión 3.5 de Traccar pero hay más recientes, se pueden consultar 	<a href="https://github.com/tananaev/traccar/releases">aqui</a>.
 		</p>
 	</li>
 </ol>

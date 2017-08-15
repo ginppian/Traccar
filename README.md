@@ -26,4 +26,21 @@ Traccar
 			Lo básico que nos ofrece <i>Digital Ocean</i>, para una configuración más detallada asociando las llaves <i>SSH</i> se puede consultar el siguiente <a href="https://github.com/ginppian/DigitalOcean-New_Drop_UpWith_Filezilla">tutorial</a>.
 		</p>
 	</li>
+	<li>	
+		<p align="justify">
+			El siguiente paso será instalar Java
+		</p>
+			<ul>	
+				$ sudo add-apt-repository ppa:webupd8team/java
+			</ul>
+			<ul>	
+				$ sudo apt-get update
+			</ul>
+			<ul>	
+				$ sudo apt-get install oracle-java8-installer
+			</ul>
+			<ul>	
+				$ sudo apt-get install oracle-java8-set-default
+			</ul>
+	</li>
 </ol>

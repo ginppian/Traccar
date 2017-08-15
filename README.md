@@ -92,18 +92,33 @@ Traccar
 	En nuestro caso lo descargamos y generamos el APK y la instalamos.
 </p>
 
-<p justify="center">
-	<img src="https://github.com/ginppian/Traccar/blob/master/imgs/img2.png" width="270" height="480">
+<p align="justify">
+	En este caso se ve algo así:	
 </p>
-
 <p justify="center">
 	<img src="https://github.com/ginppian/Traccar/blob/master/imgs/img3.png" width="270" height="480">
 </p>
 
+<p align="justify">
+	Tenemos que asignar nuestra IP o la dirección donde tenemos alojado Traccar con su respectivo puerto.	
+</p>
 <p justify="center">
 	<img src="https://github.com/ginppian/Traccar/blob/master/imgs/img4.png" width="270" height="480">
 </p>
 
+<p align="justify">
+	Podemos configurar el tiempo en que se estará enviando la ubicación.
+</p>
+<p justify="center">
+	<img src="https://github.com/ginppian/Traccar/blob/master/imgs/img2.png" width="270" height="480">
+</p>
+
+<p align="justify">
+	Ahora ya podremos monitorear nuestros dispositivos.
+</p>
+<p justify="center">
+	<img src="https://github.com/ginppian/Traccar/blob/master/imgs/img1.png" width="680" height="325">
+</p>
 
 ## Fuente
 
